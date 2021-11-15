@@ -7,7 +7,7 @@
 
 ### 1. Fork and Clone the homework from GitHub
 
-![alt text](https://github.com/LovejoyMartin/MM113Fall2021)
+![alt text](https://github.com/LovejoyMartin/MM113Spring2021/blob/8b4b71efd45eb005ed417a6cfe9b1d2baf5fd82c/SampleFiles/images/Bootcamp-Fork.png)
 
 Fork the following file on github in your account: LovejoyMartin/MM113Fall2021.git
 
