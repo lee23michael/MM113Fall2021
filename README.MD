@@ -7,7 +7,7 @@
 
 ### 1. Fork and Clone the homework from GitHub
 
-![alt text](https://github.com/LovejoyMartin/MM113Fall2021)
+![alt text](https://github.com/LovejoyMartin/MM113Fall2021.git)
 
 Fork the following file on github in your account: LovejoyMartin/MM113Fall2021.git
 
