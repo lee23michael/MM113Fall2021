@@ -27,7 +27,7 @@ const showAll = () => {
     var arrayLength = tweets.statuses.length;
     console.log(arrayLength)
     for (var i = 0; i < arrayLength; i++) {
-      //creates the div container variable that is the parent
+      //creates parent div container variable 
       newDiv = document.createElement('div')
       //div container variable with class
       newDiv.className = "twitterClassOne"
